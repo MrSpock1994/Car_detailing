@@ -22,4 +22,13 @@ I create a customer database, in which we are going to store the customers infor
 
 ![image](https://user-images.githubusercontent.com/69828127/163699602-87fb5fd6-029f-4f1d-a638-f540974cc316.png)
 
+The first button - New Customer (Nuevo cliente) is where we can add a new customer to the database, right after entering the customer information we can link them
+with a service (avaiable at the services database).
 
+![image](https://user-images.githubusercontent.com/69828127/163699714-758a3019-341a-47f7-b488-86727c0167c1.png)
+
+The above image shows where we must insert the information about the customer
+Name (Nombre)\
+Phone (Telefono)\
+Email\
+Notes (Apuntes)
