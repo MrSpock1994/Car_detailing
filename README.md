@@ -8,10 +8,10 @@ This is the main screen.
 ![image](https://user-images.githubusercontent.com/69828127/163699219-69dafce2-cbef-4de9-bd61-85cba8198f37.png)
 
 
-The software are going to have 5 main funcionalities:\
+The software are going to have 5 main funcionalities:
 
 1 - Customers (Clientes)\
 2 - Services (Servicios)\
 3 - Reports (Informes)\
 4 - Agenda\
-5 - Expenses (Gastos)\
+5 - Expenses (Gastos)
