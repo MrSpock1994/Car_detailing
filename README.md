@@ -33,7 +33,7 @@ Name (Nombre)\
 Phone (Telefono)\
 Email\
 Notes (Apuntes)\
-Date (Data)\
+Date (Data)
 
 After inserting the requested information and pressing "OK" we will then see a confirmation screen:
 
