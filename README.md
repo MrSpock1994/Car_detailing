@@ -25,12 +25,23 @@ I create a customer database, in which we are going to store the customers infor
 The first button - New Customer (Nuevo cliente) is where we can add a new customer to the database, right after entering the customer information we can link them
 with a service (avaiable at the services database).
 
-![image](https://user-images.githubusercontent.com/69828127/163699714-758a3019-341a-47f7-b488-86727c0167c1.png)
+![image](https://user-images.githubusercontent.com/69828127/163729504-2e66cb58-32af-485b-9cd6-39734e405b26.png)
+
 
 The above image shows where we must insert the information about the customer:\
 Name (Nombre)\
 Phone (Telefono)\
 Email\
-Notes (Apuntes)
+Notes (Apuntes)\
+Date (Data)\
+
+After inserting the requested information and pressing "OK" we will then see a confirmation screen:
+
+![image](https://user-images.githubusercontent.com/69828127/163729593-7da00c2a-83bd-4880-b008-1dcd4c51c215.png)
+
+It shows the customer information we just add, and  his customer id (Codigo del cliente). At the end of the screen we see a button called (Anadir Servicio). By clicking it we can link a service to this customer.
+
+
+
 
 UNDER CONSTRUCTION!!
