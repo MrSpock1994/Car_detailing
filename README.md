@@ -27,8 +27,9 @@ with a service (avaiable at the services database).
 
 ![image](https://user-images.githubusercontent.com/69828127/163699714-758a3019-341a-47f7-b488-86727c0167c1.png)
 
-The above image shows where we must insert the information about the customer:
+The above image shows where we must insert the information about the customer:\
 Name (Nombre)\
 Phone (Telefono)\
 Email\
 Notes (Apuntes)
+
