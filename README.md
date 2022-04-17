@@ -1,3 +1,3 @@
 # Car_detailing
-GUI project - ON GOING PROJECT
+GUI project - ON GOING PROJECT\
 This is a project to develop a full system to manage a small car detailing business in Spain. Im using Tkinter to build the Graphical user Interface and Sqlite3 as a Databse.
